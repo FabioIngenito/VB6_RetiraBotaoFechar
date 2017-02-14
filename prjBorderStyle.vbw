@@ -1,0 +1,9 @@
+frmCarregaForms = 67, 105, 708, 976, C, 0, 0, 0, 0, C
+frmNone = 116, 153, 571, 804, C, 0, 0, 0, 0, C
+frmFixedSigle = 116, 153, 571, 512, C, 0, 0, 0, 0, C
+frmSizable = 116, 153, 671, 480, C, 0, 0, 0, 0, C
+frmFixedDialog = 116, 153, 571, 804, C, 0, 0, 0, 0, C
+frmFixedToolWindow = 116, 153, 571, 804, C, 0, 0, 0, 0, C
+frmSizableToolWindow = 116, 153, 571, 804, C, 0, 0, 0, 0, C
+MdlPrincipal = 116, 153, 571, 381, C
+clsRemoveMenu = 55, 241, 1127, 542, C
